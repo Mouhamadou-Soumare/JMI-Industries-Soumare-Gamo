@@ -1,6 +1,6 @@
 Projet PWEB Symfony 5.1 Christian GAMO Mouhamadou SOUMARE Groupe 206
 
-Mail en cas de besoin : christian.gamo.pro@gmail.com
+Mail en cas de besoin : mouhamadou-sm@hotmail.com / christian.gamo.pro@gmail.com
 
 Base de données : 
 Utilisateur [id, nom, mdp, email, isLoueur]
